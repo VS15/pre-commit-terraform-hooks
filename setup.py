@@ -5,7 +5,7 @@ from setuptools import setup
 setup(
     name='pre-commit-terraform',
     description='Pre-commit hooks for terraform_docs_replace',
-    url='https://github.com/antonbabenko/pre-commit-terraform',
+    url='https://github.com/VS15/pre-commit-terraform-hooks.git',
     version_format='{tag}+{gitsha}',
 
     author='Contributors',
